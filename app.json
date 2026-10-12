@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/index/index", "pages/detail/detail", "pages/import/import"],
+  "window": {
+    "navigationBarTitleText": "法条智检",
+    "navigationBarBackgroundColor": "#0d1b2a",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f4f7fb"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

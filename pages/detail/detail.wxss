@@ -1,0 +1,7 @@
+.detail-title { color:#152536; font-size:44rpx; margin-top:18rpx; display:block; }
+.article-text { background:#f8fafb; border-left:6rpx solid #e5a94b; padding:24rpx; margin-top:30rpx; font-size:31rpx; line-height:2; }
+.tag-row { display:flex; flex-wrap:wrap; gap:12rpx; margin-top:24rpx; }
+.tag { background:#edf3f7; color:#496574; padding:8rpx 16rpx; border-radius:10rpx; font-size:23rpx; }
+.analysis { margin-top:22rpx; font-size:28rpx; line-height:1.8; color:#536572; }
+.interpretation { border-top:1rpx solid #e8eef2; padding:20rpx 0; }
+.interpretation:first-child { border-top:0; }

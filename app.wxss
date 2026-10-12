@@ -1,0 +1,26 @@
+page { background: #f4f7fb; color: #152536; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif; }
+.page { padding: 44rpx 32rpx 56rpx; }
+.hero { background: linear-gradient(135deg,#0d1b2a,#193b56); border-radius: 28rpx; padding: 40rpx 36rpx; color: #fff; box-shadow: 0 18rpx 40rpx rgba(13,27,42,.18); }
+.eyebrow { font-size: 24rpx; color: #9dc8dc; letter-spacing: 4rpx; }
+.hero-title { font-size: 52rpx; font-weight: 700; margin-top: 16rpx; display:block; }
+.hero-desc { font-size: 26rpx; color: #d8e9ef; margin-top: 14rpx; display:block; }
+.card { background:#fff; border-radius:24rpx; padding:28rpx; margin-top:24rpx; box-shadow:0 8rpx 24rpx rgba(23,50,74,.06); }
+.search-box { display:flex; align-items:center; background:#f1f5f8; border-radius:16rpx; padding: 0 22rpx; height:92rpx; }
+.search-box input { flex:1; font-size:30rpx; }
+.search-btn { background:#e5a94b; color:#182532; border-radius:14rpx; font-size:26rpx; padding:18rpx 24rpx; }
+.section-title { font-size:30rpx; font-weight:700; margin-bottom:20rpx; }
+.chips { display:flex; flex-wrap:wrap; gap:14rpx; }
+.chip { padding:14rpx 20rpx; border-radius:999rpx; background:#edf3f7; color:#486171; font-size:24rpx; }
+.result { border-top:1rpx solid #e8eef2; padding:24rpx 0; }
+.result:first-child { border-top:0; padding-top:0; }
+.result-head { display:flex; justify-content:space-between; align-items:center; }
+.article-no { color:#d18b2f; font-weight:700; font-size:24rpx; }
+.result-title { font-size:31rpx; font-weight:700; margin-left:12rpx; }
+.score { font-size:23rpx; color:#2f8f78; background:#e8f6f0; padding:6rpx 12rpx; border-radius:10rpx; }
+.result-content { font-size:27rpx; color:#536572; line-height:1.7; margin-top:12rpx; display:block; }
+.meta { font-size:22rpx; color:#8d9ba4; margin-top:14rpx; display:block; }
+.empty { text-align:center; color:#8997a1; padding:56rpx 0; font-size:27rpx; }
+.link { color:#2b7088; font-size:27rpx; }
+.textarea { background:#f7f9fb; border-radius:16rpx; padding:20rpx; width:auto; min-height:320rpx; font-size:27rpx; box-sizing:border-box; }
+.primary { background:#0d1b2a; color:#fff; border-radius:14rpx; margin-top:24rpx; }
+.notice { background:#fff8eb; color:#8b642f; border-radius:14rpx; padding:18rpx; font-size:24rpx; line-height:1.6; }

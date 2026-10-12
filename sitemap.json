@@ -1,0 +1,1 @@
+{ "desc": "民法法律条文精准检索", "rules": [{ "action": "allow", "page": "pages/index/index" }] }
